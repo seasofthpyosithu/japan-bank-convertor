@@ -1,0 +1,19 @@
+{
+  "name": "japan-bank-convertor",
+  "version": "1.0.0",
+  "description": "Bank list convertor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seasofthpyosithu/japan-bank-convertor.git"
+  },
+  "author": "Si Thu Hpyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seasofthpyosithu/japan-bank-convertor/issues"
+  },
+  "homepage": "https://github.com/seasofthpyosithu/japan-bank-convertor#readme"
+}
